@@ -1,2 +1,2 @@
 # Object-Oriented-Programing
-## languange :
+## languange : python
