@@ -1,4 +1,4 @@
-class Animal:## mnmndfh
+class Animal:## mnmndf
     def __init__(self):
         self.name = "Animal"
     def talk(self):
